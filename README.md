@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/saruuu24?logo=github&style=for-the-
 
 <p align="left">
 <a href="https://godotengine.org" target="_blank" rel="noreferrer"><img src="https://godotengine.org/assets/press/icon_color_outline.png" width="48" height="48" alt="GODOT" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/blender-icon-128x104-2gx6oi2b.png" width="48" height="48" alt="Blender" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/blender-icon-128x104-2gx6oi2b.png" width="48" height="58" alt="Blender" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="48" height="48" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="48" height="48" alt="After Effects" /></a>
 </p>
