@@ -26,7 +26,3 @@ src="https://img.shields.io/github/followers/saruuu24?logo=github&style=for-the-
 <p align="left"> <a href="https://saru.oia.bio/april2025" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/x6X5AC15C1oxgs2e_yKp6u-xDgH9x8we7o5tnWB83wM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMTM4NC8xMzg0/MDYwLnBuZw" width="32" height="32" /></a> <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/saruuu24"><img src="https://github-readme-stats.vercel.app/api?username=danielcranney&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielcranney's GitHub stats" /></a>
-
