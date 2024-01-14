@@ -1,4 +1,4 @@
-Hi 👋 Im Saru
+Hi Im Saru 🐶
 ===============================
 
 Developer, Artist & Student
