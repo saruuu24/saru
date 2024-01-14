@@ -4,13 +4,16 @@ Hi 👋 Im Saru
 Developer, Artist & Student
 -----------------------------
 
-* 🌍  I'm from india
-*  new projects coming soon....
+* 🌍 I'm from india
+* 😁 New projects are coming soon :) ....
+* 😰 Learning Game develeopment, 3d modeling, drawing..
+* 😼 Also learning rust
+* 🐧 I use arch btw...
 
 <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/saruuu24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### My Skills
+### My Skills currently
 
 
 <p align="left">
