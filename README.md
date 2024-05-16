@@ -26,6 +26,5 @@ src="https://img.shields.io/github/followers/saruuu24?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://saru.oia.bio/april2025" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/x6X5AC15C1oxgs2e_yKp6u-xDgH9x8we7o5tnWB83wM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMTM4NC8xMzg0/MDYwLnBuZw" width="32" height="32" /></a> <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img 
-### Badges
-
+<p align="left"> <a href="https://saru.oia.bio/april2025" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/x6X5AC15C1oxgs2e_yKp6u-xDgH9x8we7o5tnWB83wM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMTM4NC8xMzg0/MDYwLnBuZw" width="32" height="32" /></a> <a href="https://www.github.com/heartbrokencat" target="_blank" rel="noreferrer"><img 
+<p align="left"> <a href="https://www.instagram.com/saru.cloudy" target="_blank" rel="noreferrer"><img src="https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/tBxa1IFcTQH.png" width="32" height="32" /></a> <a href="https://www.github.com/dheartbrokencat" target="_blank" rel="noreferrer"><img 
