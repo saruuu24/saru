@@ -10,8 +10,8 @@ Developer, Artist & Student
 * 😼 Also learning rust
 * 🐧 I use arch btw...
 
-<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/saruuu24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/heartbrokencat" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/heartbrokencat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### My Skills currently
 
