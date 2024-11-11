@@ -4,7 +4,7 @@ Hi Im Saru 🐶
 Developer, Artist & Student
 -----------------------------
 
-* 🌍 I'm from india
+* 🇮🇳 I'm from india
 * 😁 New projects are coming soon :) ....
 * 😰 Learning Game develeopment, 3d modeling, drawing..
 * 😼 Also learning rust
@@ -13,14 +13,14 @@ Developer, Artist & Student
 <a href="https://www.github.com/heartbrokencat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/heartbrokencat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### My Skills currently
+### Learning these currently 😭
 
 
 <p align="left">
-<a href="https://godotengine.org" target="_blank" rel="noreferrer"><img src="https://godotengine.org/assets/press/icon_color_outline.png" width="64" height="64" alt="GODOT" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/blender-icon-128x104-2gx6oi2b.png" width="64" height="64" alt="Blender" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="64" height="64" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" width="64" height="64" alt="After Effects" /></a>
+<a href="https://godotengine.org" target="_blank" rel="noreferrer"><img src="https://godotengine.org/assets/press/icon_color_outline.png" width="32" height="32" alt="GODOT" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/blender-icon-128x104-2gx6oi2b.png" width="32" height="32" alt="Blender" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="32" height="32" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" width="32" height="32" alt="After Effects" /></a>
 </p>
 
 
